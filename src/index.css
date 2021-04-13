@@ -1,0 +1,28 @@
+/* html {
+  height: 100% !important;
+} */
+
+body {
+  margin: 0 !important;
+  padding: 0 !important;
+  overflow-x: hidden !important;
+  font-family: "Montserrat", sans-serif !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  
+  background-color: #f8f9fa;
+  color: black;
+
+  height: 100%;
+
+  -webkit-user-select: none;
+  -webkit-touch-callout: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
