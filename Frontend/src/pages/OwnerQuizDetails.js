@@ -124,6 +124,22 @@ function OwnerQuizDetails(props) {
 		} catch (error) {
 			console.log(error);
 		}
+
+		// url = `https://quizzie-api.herokuapp.com/admin/allStudentsQuizResult/${quizId}`;
+
+		// try {
+		// 	await axios.get(url, {
+		// 		headers: {
+		// 			"auth-token": token
+		// 		}
+		// 	}).then(res => {
+		// 		console.log(res);
+		// 		setResponses(res.data.userResults);
+		// 		setLoading(false);
+		// 	})
+		// } catch(error) {
+		// 	console.log(error);
+		// }
 	};
 
 	useEffect(() => {

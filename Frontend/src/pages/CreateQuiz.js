@@ -67,7 +67,45 @@ function CreateQuiz() {
 		if(quizName == ''){
 			setNameError(true)
 		}
+		// let token = localStorage.getItem("authToken");
+		// let url = "https://quizzie-api.herokuapp.com/quiz/createQuiz";
+
+		// let captcha = await executeRecaptcha("create_quiz");
+
+		// let data = {
+		// 	quizName: quizName,
+		// 	scheduledFor: quizDate.getTime(),
+		// 	quizDuration: duration,
+		// 	quizType: type,
+		// 	captcha: captcha,
+		// };
+
+		// try {
+		// 	await axios
+		// 		.post(url, data, {
+		// 			headers: {
+		// 				"auth-token": token,
+		// 			},
+		// 		})
+		// 		.then((res) => {
+		// 			setQuizId(res.data.result._id);
+		// 			setLoading(false);
+		// 			setRedirectEdit(true);
+		// 		});
+		// } catch (error) {
+		// 	console.log(error);
+		// 	setLoading(false);
+		// }
 	};
+
+	// useEffect(() => {
+	// 	let token = localStorage.getItem("authToken");
+	// 	if (token === null) {
+	// 		setLoading(false);
+	// 		setRedirect(true);
+	// 		return;
+	// 	}
+	// }, []);
 
 	if (loading) {
 		return <Loading />;

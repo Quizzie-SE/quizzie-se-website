@@ -49,6 +49,36 @@ function UpdateProfile(props) {
 		if (phoneNumber.toString().trim().length !== 10) {
 			setNumberError(true);
 		} else setNumberError(false);
+
+		// setLoading(true);
+
+		// let updateOps = [
+		// 	{ propName: "name", value: name },
+		// 	{ propName: "mobileNumber", value: phoneNumber },
+		// ];
+
+		// let data = {
+		// 	updateOps,
+		// 	captcha,
+		// };
+
+		// try {
+		// 	await axios
+		// 		.patch(url, data, {
+		// 			headers: {
+		// 				"auth-token": token,
+		// 			},
+		// 		})
+		// 		.then((res) => {
+		// 			localStorage.setItem("name", name);
+		// 			// setRedirect(true);
+		// 			window.location.reload(true);
+		// 		});
+		// } catch (error) {
+		// 	console.log(error);
+		// 	setError(true);
+		// 	setLoading(false);
+		// }
 	};
 
 	const getDetails = async () => {
