@@ -43,7 +43,7 @@ Open Sourced Quiz Portal which can be used for any event.
 ## Instructions to run
 
 ```
-$ git clone https://github.com/CodeChefVIT/quizzie
+$ git clone https://github.com/Quizzie-SE/quizzie-se-frontend
 $ cd quizzie
 $ npm install
 $ npm run dev
