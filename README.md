@@ -1,5 +1,4 @@
-<p align="center"><a href="http://www.codechefvit.com" target="_blank"><img src="https://s3.amazonaws.com/codechef_shared/sites/all/themes/abessive/logo-3.png" title="CodeChef-VIT" alt="Codechef-VIT"></a>
-</p>
+
 
 # Quizzie
 
@@ -71,20 +70,7 @@ Jugal Bhatt
 </td>
 
 
-<td>
 
-Sarthak Bhardwaj
-
-<p align="center">
-<img src = "https://avatars0.githubusercontent.com/u/28906009?s=400&u=5e6a38b0cf9a63bab372c98d2e4ed9029939ca61&v=4" width="150" height="150" alt="Your Name Here (Insert Your Image Link In Src">
-</p>
-<p align="center">
-<a href = "https://github.com/Sarthakbh321"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/sarthak-bharadwaj-8552b5110/">
-<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
-</a>
-</p>
-</td>
 
 
 
@@ -96,6 +82,4 @@ Sarthak Bhardwaj
 
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
-<p align="center">
-	With :heart: by <a href="http://www.codechefvit.com" target="_blank">CodeChef-VIT</a>
-</p>
+
