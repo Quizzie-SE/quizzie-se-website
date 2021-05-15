@@ -17,29 +17,6 @@ Open Sourced Quiz Portal which can be used for any event.
 - Detailed ananlysis of quiz for both organizers and users
 
 
-
-
-## Screenshots
-<img src="https://i.ibb.co/1Q0D9vX/home-screen.png" alt="Project Screenshots">
-
-<br>
-<img src="https://i.ibb.co/T14Nz0Y/Create-quiz.png" alt="Project Screenshots">
-<br>
-<img src="https://i.ibb.co/WBDvYdq/Screenshot-101.png" alt="Project Screenshots">
-<br>
-<img src="https://i.ibb.co/jVY4mfc/Screenshot-94.png" alt="Project Screenshots">
-<br>
-<img src="https://i.ibb.co/VxDMtwh/Screenshot-95.png" alt="Project Screenshots">
-<br>
-<img src="https://i.ibb.co/NYJKsLX/Screenshot-96.png" alt="Project Screenshots">
-<br>
-<img src="https://i.ibb.co/nbLLq0s/Screenshot-97.png" alt="Project Screenshots">
-<br>
-<img src="https://i.ibb.co/Xt1R8rY/Screenshot-98.png" alt="Project Screenshots">
-<br>
-<img src="https://i.ibb.co/X7JjhYG/Screenshot-100.png" alt="Project Screenshots">
-<br>
-
 ## Instructions to run
 
 ```
