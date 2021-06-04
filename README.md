@@ -6,10 +6,13 @@ This project is a complete online quiz management platform with a plethora of fe
 
 ---
 [![DOCS](https://img.shields.io/badge/Documentation-see%20docs-green?style=flat-square&logo=appveyor)](https://documenter.getpostman.com/view/10968840/SzzoZF12)
+&nbsp;&nbsp; [![Figma Designs](https://img.shields.io/badge/Design-Figma-important)](https://www.figma.com/file/C4RQLm0Nal7tBTxBaac9LS/Quizzie-SE-Project-desgn-mockups?node-id=2%3A67)
 
 
 ## Motivation
   The motivation of this project came from the idea to help teachers and institute administrators create quizzes and tests in an efficient manner. With the popularity of the Internet, it is inevitable to have online quizzes as classroom assessments. In learning, online quizzes may serve two objectives, that is, for self-study or as a formal assessment. The online quiz has its advantages, such as saving the cost of paper printing and reducing the time spent for having assessments in class. However, there are weaknesses. Its primary drawback is the issue of academic dishonesty, especially when students are answering online quiz.
+
+### [Website Link - Quizzie](https://quizzie-se-winter.netlify.app/)
 
 ## Screenshots
 ![Quizzie Screenshots](screenshots/quizzie_frontend.jpg)
