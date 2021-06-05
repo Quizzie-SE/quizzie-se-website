@@ -71,6 +71,19 @@ Dinesh B S
 </a>
 </p>
 </td>
+  
+<td>
+Amit Krishna A
+<p align="center">
+<img src = "https://i.ibb.co/DwLYR0X/amit.png" width="150" height="150" alt="Amit Krishna A (Insert Your Image Link In Src">
+</p>
+<p align="center">
+<a href = "https://github.com/akri16"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/akri16/">
+<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
+</a>
+</p>
+</td>
 
 
 
